@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace CalculatorTDD.Test
 {
-    //Se n�o passar valor, retornar zero
+    //Se nao passar valor, retornar zero
     public class Tests
     {
         [Test]
